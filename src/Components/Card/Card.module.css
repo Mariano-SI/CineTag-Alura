@@ -1,0 +1,20 @@
+.container{
+    padding: 0 0 1em 0;
+    margin-top: .5em;
+    width: 280px;
+    background-color: var(--cinza);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.bannerImage{
+    width: 100%;
+}
+
+.container h3, .favorite{
+    padding: 0 1em;
+}
+
+.favorite{
+    width: 25px;
+}
